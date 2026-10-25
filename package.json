@@ -1,6 +1,6 @@
 {
   "name": "@plasius/gpu-model-iges",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "IGES analytic geometry import/export and repair diagnostics contracts.",
   "type": "module",
   "sideEffects": false,
