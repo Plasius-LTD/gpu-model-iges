@@ -9,6 +9,20 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ## [Unreleased]
 
+- **Added**
+  - (placeholder)
+
+- **Changed**
+  - (placeholder)
+
+- **Fixed**
+  - (placeholder)
+
+- **Security**
+  - (placeholder)
+
+## [0.1.8] - 2026-11-22
+
 - Refresh supported npm dependency and security tooling baselines; preserve runtime API contracts (weekly maintenance, 2026-11-22).
 
 - **Added**
@@ -491,7 +505,7 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ---
 
-[Unreleased]: https://github.com/Plasius-LTD/gpu-model-iges/compare/v0.1.7...HEAD
+[Unreleased]: https://github.com/Plasius-LTD/gpu-model-iges/compare/v0.1.8...HEAD
 [1.0.0]: https://github.com/Plasius-LTD/schema/releases/tag/v1.0.0
 [1.0.13]: https://github.com/Plasius-LTD/schema/releases/tag/v1.0.13
 [1.0.17]: https://github.com/Plasius-LTD/schema/releases/tag/v1.0.17
@@ -534,3 +548,4 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 [0.1.5]: https://github.com/Plasius-LTD/gpu-model-iges/releases/tag/v0.1.5
 [0.1.6]: https://github.com/Plasius-LTD/gpu-model-iges/releases/tag/v0.1.6
 [0.1.7]: https://github.com/Plasius-LTD/gpu-model-iges/releases/tag/v0.1.7
+[0.1.8]: https://github.com/Plasius-LTD/gpu-model-iges/releases/tag/v0.1.8
